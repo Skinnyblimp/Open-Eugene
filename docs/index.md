@@ -10,7 +10,7 @@ Participants can learn from Mozilla Open Leaders the basics of running open proj
 
 ## When & Where
 Open Eugene Fest will be happening Friday-Saturday December 14th & 15th 2018.
-Location is TBD but will definitely be downtown, Eugene.
+Location is at Trifoia (1203 Willamette St. Suite 100) next to Claim 52 Kitchen. 
 
 ## Submit a project
 We are looking for projects that collaborators can work on during  the event.  Maybe you have a project that is up and running but not open-sourced.  We can help take you to the next level.  Perhaps you have an idea for a project and would like to start it out by working in the open.  We can get you started. Or maybe you have some data stuck in a flat file somewhere you'd like to see made available to the world or have a PI built.  That works too!  We'd love to build community connections between projects and contributors. 
